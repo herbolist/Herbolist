@@ -1,7 +1,9 @@
 <p align="center">
+  <a href="https://hits.sh/github.com/herbolist/"><img alt="Hits" src="https://hits.sh/github.com/herbolist.svg?label=Bunnybunnybunny&color=EE3580&labelColor=FCEFD8"/></a>
+<p align="center">
 <img height="300" width="300" src= "https://files.catbox.moe/jvaw8w.png">  
 <p align="center">
-<a href="https://goodeveningsunsim.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=14&duration=1&pause=5000&color=FCEFD8&center=true&vCenter=true&width=200&height=30&lines=ata" alt="Typing SVG" /></a>
+<a href="https://goodeveningsunsim.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=14&duration=1&pause=5000&color=EE3580&center=true&vCenter=true&width=200&height=30&lines=ata" alt="Typing SVG" /></a>
 <p align="center">
 <a href="https://wereallconnected.straw.page"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=14&duration=1&pause=5000&color=F7B29A&center=true&vCenter=true&width=200&height=30&lines=straw" alt="Typing SVG" /></a>
 
