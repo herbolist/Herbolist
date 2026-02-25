@@ -4,7 +4,7 @@
 <a href="https://hits.sh/github.com/herbolist/"><img alt="Hits" src="https://hits.sh/github.com/herbolist.svg?label=%E2%81%A0%E2%99%A1&color=FEF9F8&labelColor=F9D9C6"/></a>
   
 <p align="center">
-<img height="300" width="300" src= "https://files.catbox.moe/0m2w9s.png"> 
+<img height="300" width="300" src="https://files.catbox.moe/gkx1wg.png"> 
   
 <p align="center"> 
 <img height="20" width="20" src= "https://files.catbox.moe/1foc7r.gif">
@@ -26,6 +26,9 @@ $\small\textcolor{#CF4965}{\textsf{🍕 [c+h]] gets hard}}$
 <a href="https://goodeveningsunsim.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=14&duration=1&pause=5000&color=FEF9F8&center=true&vCenter=true&width=200&height=30&lines=ata" alt="Typing SVG" /></a>
 <p align="center">
 <a href="https://wereallconnected.straw.page"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=14&duration=1&pause=5000&color=F6A7A1&center=true&vCenter=true&width=200&height=30&lines=straw" alt="Typing SVG" /></a>
+
+<p align="center">
+<img height="300" width="300" src= "https://files.catbox.moe/of0hum.gif">
 
 <p align="center">
   <a href="https://open.spotify.com/user/31epnla3s6kdp6ghhtszrqkhvblq?si=Bz6B1xRSRa-ecVnvgMU3mg">
