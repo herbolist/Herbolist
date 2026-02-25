@@ -23,9 +23,8 @@ $\small\textcolor{#CF4965}{\textsf{🍕 [c+h]] gets hard}}$
 <img height="20" width="20" src= "https://files.catbox.moe/9x6o5q.gif">
 
 <p align="center">
-<a href="https://goodeveningsunsim.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=14&duration=1&pause=5000&color=FEF9F8&center=true&vCenter=true&width=200&height=30&lines=ata" alt="Typing SVG" /></a>
-<p align="center">
-<a href="https://wereallconnected.straw.page"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=14&duration=1&pause=5000&color=F6A7A1&center=true&vCenter=true&width=200&height=30&lines=straw" alt="Typing SVG" /></a>
+<a href="https://goodeveningsunsim.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=10&duration=1&pause=5000&color=FEF9F8&center=true&vCenter=true&width=200&height=30&lines=ata" alt="Typing SVG" /></a>
+<a href="https://wereallconnected.straw.page"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=10&duration=1&pause=5000&color=F6A7A1&center=true&vCenter=true&width=200&height=30&lines=straw" alt="Typing SVG" /></a>
 
 <p align="center">
 <img height="300" width="300" src= "https://files.catbox.moe/of0hum.gif">
