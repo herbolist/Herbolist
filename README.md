@@ -1,5 +1,7 @@
 <p align="center">
-  <a href="https://hits.sh/github.com/herbolist/"><img alt="Hits" src="https://hits.sh/github.com/herbolist.svg?label=Bunnybunnybunny&color=EE3580&labelColor=FCEFD8"/></a>
+  <a href="https://hits.sh/github.com/herbolist/"><img alt="Hits" src="https://hits.sh/github.com/herbolist.svg?label=Adworld&extraCount=1000&color=F6A7A1&labelColor=CF4965"/></a>
+<a href="https://hits.sh/github.com/herbolist/"><img alt="Hits" src="https://hits.sh/github.com/herbolist.svg?label=%E2%81%A0%E2%99%A1&color=FEF9F8&labelColor=F9D9C6"/></a>
+  
 <p align="center">
 <img height="300" width="300" src= "https://files.catbox.moe/jvaw8w.png">  
 <p align="center">
