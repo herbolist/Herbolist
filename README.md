@@ -9,33 +9,33 @@
 <p align="center"> 
 <img height="20" width="20" src= "https://files.catbox.moe/9rcn71.gif">
   <p align="center">
-$\small\textcolor{#F9D9C6}{\textsf{fem,}}$
-$\small\textcolor{#F6A7A1}{\textsf{she/her}}$
-$\small\textcolor{#CF4965}{\textsf{pronouns}}$
-$\small\textcolor{#FEF9F8}{\textsf{only}}$
+$\small\textcolor{#FFF9DB}{\textsf{fem,}}$
+$\small\textcolor{#826FBC}{\textsf{she/her}}$
+$\small\textcolor{#FFDDED}{\textsf{pronouns}}$
+$\small\textcolor{#EC4386}{\textsf{only}}$
     
   <p align="center">
-$\small\textcolor{#F9D9C6}{\textsf{taken !}}$
-$\small\textcolor{#CF4965}{\textsf{19/3/2025}}$
+$\small\textcolor{#FFF9DB}{\textsf{taken !}}$
+$\small\textcolor{#FFDDED}{\textsf{19/3/2025}}$
 
 <p align="center">
-$\small\textcolor{#FEF9F8}{\textsf{my}}$
-$\small\textcolor{#F9D9C6}{\textsf{great}}$
-$\small\textcolor{#CF4965}{\textsf{husband}}$
-$\small\textcolor{#F9D9C6}{\textsf{ivan}}$
+$\small\textcolor{#EC4386}{\textsf{my}}$
+$\small\textcolor{#FFDDED}{\textsf{great}}$
+$\small\textcolor{#826FBC}{\textsf{husband}}$
+$\small\textcolor{#FFF9DB}{\textsf{ivan}}$
 
 <p align="center">
-$\small\textcolor{#F6A7A1}{\textsf{my}}$
-$\small\textcolor{#CF4965}{\textsf{sweet}}$
-$\small\textcolor{#F9D9C6}{\textsf{007n7}}$
+$\small\textcolor{#EC4386}{\textsf{my}}$
+$\small\textcolor{#FFDDED}{\textsf{sweet}}$
+$\small\textcolor{#826FBC}{\textsf{007n7}}$
   
 <p align="center">
-$\small\textcolor{#CF4965}{\textsf{🍕 [c+h]] gets hard}}$
+$\small\textcolor{#FFF9DB}{\textsf{🍕 [c+h]] gets hard}}$
 <img height="20" width="20" src= "https://files.catbox.moe/9x6o5q.gif">
 
 <p align="center">
-<a href="https://goodeveningsunsim.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=10&duration=1&pause=5000&color=F9D9C6&center=true&vCenter=true&width=200&height=30&lines=ata" alt="Typing SVG" /></a>
-<a href="https://pickupthephonespamtom.straw.page"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=10&duration=1&pause=5000&color=CF4965&center=true&vCenter=true&width=200&height=30&lines=straw" alt="Typing SVG" /></a>
+<a href="https://goodeveningsunsim.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=10&duration=1&pause=5000&color=FFDDED&center=true&vCenter=true&width=200&height=30&lines=ata" alt="Typing SVG" /></a>
+<a href="https://pickupthephonespamtom.straw.page"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=10&duration=1&pause=5000&color=EC4386&center=true&vCenter=true&width=200&height=30&lines=straw" alt="Typing SVG" /></a>
 
 <p align="center">
 <img height="300" width="300" src= "https://files.catbox.moe/of0hum.gif">
