@@ -1,13 +1,13 @@
 <p align="center">
 <a href="https://hits.sh/github.com/herbolist/"><img alt="Hits" src="https://hits.sh/github.com/herbolist.svg?label=Mccool&extraCount=443&color=db33e1&labelColor=fff080"/></a>
-<img height="20" width="20" src= "https://files.catbox.moe/96gfk7.gif">
+<img height="20" width="20" src= "https://files.catbox.moe/a7ql2y.gif">
 <a href="https://hits.sh/github.com/herbolist/"><img alt="Hits" src="https://hits.sh/github.com/herbolist.svg?label=%E2%86%90&extraCount=110&color=ffe49d&labelColor=e06fe3"/></a>
   
 <p align="center">
 <img height="300" width="300" src="https://files.catbox.moe/brffq3.png"> 
   
 <p align="center"> 
-<img height="20" width="20" src= "https://files.catbox.moe/1foc7r.gif">
+<img height="20" width="20" src= "https://files.catbox.moe/9rcn71.gif">
   <p align="center">
 $\small\textcolor{#F9D9C6}{\textsf{fem,}}$
 $\small\textcolor{#F6A7A1}{\textsf{she/her}}$
