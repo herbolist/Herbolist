@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://hits.sh/github.com/herbolist/"><img alt="Hits" src="https://hits.sh/github.com/herbolist.svg?label=Adworld&extraCount=1000&color=F6A7A1&labelColor=CF4965"/></a>
+<a href="https://hits.sh/github.com/herbolist/"><img alt="Hits" src="https://hits.sh/github.com/herbolist.svg?label=Mccool&extraCount=443&color=db33e1&labelColor=fff080"/></a>
 <img height="20" width="20" src= "https://files.catbox.moe/96gfk7.gif">
 <a href="https://hits.sh/github.com/herbolist/"><img alt="Hits" src="https://hits.sh/github.com/herbolist.svg?label=%E2%81%A0%E2%99%A1&color=FEF9F8&labelColor=F9D9C6"/></a>
   
