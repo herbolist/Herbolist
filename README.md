@@ -36,6 +36,7 @@ $\small\textcolor{#FFF9DB}{\textsf{🍕 [c+h]] gets hard}}$
 <p align="center">
 <a href="https://goodeveningsunsim.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=10&duration=1&pause=5000&color=FFDDED&center=true&vCenter=true&width=200&height=30&lines=ata" alt="Typing SVG" /></a>
 <a href="https://pickupthephonespamtom.straw.page"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=10&duration=1&pause=5000&color=EC4386&center=true&vCenter=true&width=200&height=30&lines=straw" alt="Typing SVG" /></a>
+<a href="https://pin.it/7h6CXTGmT"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=10&duration=1&pause=5000&color=FFF9DB&center=true&vCenter=true&width=200&height=30&lines=pin" alt="Typing SVG" /></a>
 
 <p align="center">
   <a href="https://open.spotify.com/user/31epnla3s6kdp6ghhtszrqkhvblq?si=Bz6B1xRSRa-ecVnvgMU3mg">
