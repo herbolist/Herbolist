@@ -4,7 +4,7 @@
 <a href="https://hits.sh/github.com/herbolist/"><img alt="Hits" src="https://hits.sh/github.com/herbolist.svg?label=%E2%86%90&extraCount=110&color=ffe49d&labelColor=e06fe3"/></a>
   
 <p align="center">
-<img height="300" width="300" src="https://files.catbox.moe/gkx1wg.png"> 
+<img height="300" width="300" src="https://files.catbox.moe/brffq3.png"> 
   
 <p align="center"> 
 <img height="20" width="20" src= "https://files.catbox.moe/1foc7r.gif">
