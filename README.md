@@ -1,7 +1,7 @@
 <p align="center">
-<a href="https://hits.sh/github.com/herbolist/"><img alt="Hits" src="https://hits.sh/github.com/herbolist.svg?label=Mccool&extraCount=443&color=db33e1&labelColor=fff080"/></a>
+<a href="https://hits.sh/github.com/herbolist/"><img alt="Hits" src="https://hits.sh/github.com/herbolist.svg?label=Mccool&extraCount=332&color=FFF9DB&labelColor=826FBC"/></a>
 <img height="30" width="30" src= "https://files.catbox.moe/a2tnng.gif">
-<a href="https://hits.sh/github.com/herbolist/"><img alt="Hits" src="https://hits.sh/github.com/herbolist.svg?label=%E2%86%90&extraCount=110&color=ffe49d&labelColor=e06fe3"/></a>
+<a href="https://hits.sh/github.com/herbolist/"><img alt="Hits" src="https://hits.sh/github.com/herbolist.svg?label=%E0%B9%91&extraCount=554&color=FFDDED&labelColor=FFF9DB"/></a>
   
 <p align="center">
 <img height="300" width="300" src="https://files.catbox.moe/brffq3.png"> 
