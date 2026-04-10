@@ -1,5 +1,5 @@
 <p align="center">
-  if you're a pressure fan what wants to sell your Sebastian(makeship) plush please contact _jay_x on discord! she needs one, <3
+  if you're a pressure fan what wants to sell your Sebastian solace(makeship 2.0 vers) plush please contact _jay_x on discord! she needs one, <3
     
 <p align="center">
 <a href="https://hits.sh/github.com/herbolist/"><img alt="Hits" src="https://hits.sh/github.com/herbolist.svg?label=Mccool&extraCount=332&color=FFF9DB&labelColor=826FBC"/></a>
