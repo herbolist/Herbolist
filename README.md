@@ -1,4 +1,7 @@
 <p align="center">
+  if you're a pressure fan what wants to sell your Sebastian(makeship) plush please contact _jay_x on discord! she needs one, <3
+    
+<p align="center">
 <a href="https://hits.sh/github.com/herbolist/"><img alt="Hits" src="https://hits.sh/github.com/herbolist.svg?label=Mccool&extraCount=332&color=FFF9DB&labelColor=826FBC"/></a>
 <img height="30" width="30" src= "https://files.catbox.moe/a2tnng.gif">
 <a href="https://hits.sh/github.com/herbolist/"><img alt="Hits" src="https://hits.sh/github.com/herbolist.svg?label=%E0%B9%91&extraCount=554&color=FFDDED&labelColor=FFF9DB"/></a>
