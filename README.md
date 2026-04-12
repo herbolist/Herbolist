@@ -18,27 +18,27 @@ $\small\textcolor{#FFDDED}{\textsf{pronouns}}$
 $\small\textcolor{#EC4386}{\textsf{only}}$
     
   <p align="center">
-$\small\textcolor{#FFF9DB}{\textsf{taken !}}$
-$\small\textcolor{#FFDDED}{\textsf{19/3/2025}}$
+$\small\textcolor{#FFF9DB}{\textsf{tenna }}$
+$\small\textcolor{#FFDDED}{\textsf{enjoyer!}}$
 
 <p align="center">
-$\small\textcolor{#EC4386}{\textsf{my}}$
-$\small\textcolor{#FFDDED}{\textsf{great}}$
-$\small\textcolor{#826FBC}{\textsf{husband}}$
-$\small\textcolor{#FFF9DB}{\textsf{ivan}}$
+$\small\textcolor{#EC4386}{\textsf{read}}$
+$\small\textcolor{#FFDDED}{\textsf{straw}}$
+$\small\textcolor{#826FBC}{\textsf{before}}$
+$\small\textcolor{#FFF9DB}{\textsf{int}}$
 
 <p align="center">
-$\small\textcolor{#EC4386}{\textsf{my}}$
-$\small\textcolor{#FFDDED}{\textsf{sweet}}$
-$\small\textcolor{#826FBC}{\textsf{007n7}}$
+$\small\textcolor{#EC4386}{\textsf{i adore}}$
+$\small\textcolor{#FFDDED}{\textsf{my}}$
+$\small\textcolor{#826FBC}{\textsf{fictkins!}}$
   
 <p align="center">
-$\small\textcolor{#FFF9DB}{\textsf{🍕 [c+h]] gets hard}}$
+$\small\textcolor{#FFF9DB}{\textsf{[ding dan don] whispers: tung tung tung saur}}$
 <img height="20" width="20" src= "https://files.catbox.moe/9x6o5q.gif">
 
 <p align="center">
 <a href="https://goodeveningsunsim.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=10&duration=1&pause=5000&color=FFDDED&center=true&vCenter=true&width=200&height=30&lines=ata" alt="Typing SVG" /></a>
-<a href="https://pickupthephonespamtom.straw.page"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=10&duration=1&pause=5000&color=EC4386&center=true&vCenter=true&width=200&height=30&lines=straw" alt="Typing SVG" /></a>
+<a href="https://wereallconnected.straw.page"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=10&duration=1&pause=5000&color=EC4386&center=true&vCenter=true&width=200&height=30&lines=straw" alt="Typing SVG" /></a>
 <a href="https://pin.it/7h6CXTGmT"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=10&duration=1&pause=5000&color=FFF9DB&center=true&vCenter=true&width=200&height=30&lines=pin" alt="Typing SVG" /></a>
 
 <p align="center">
