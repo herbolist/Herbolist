@@ -12,28 +12,28 @@
 <p align="center"> 
 <img height="20" width="20" src= "https://files.catbox.moe/9rcn71.gif">
   <p align="center">
-$\small\textcolor{#DB386F}{\textsf{fem,}}$
-$\small\textcolor{#BD735A}{\textsf{she/her}}$
-$\small\textcolor{#EDCB84}{\textsf{pronouns}}$
-$\small\textcolor{#652756}{\textsf{only}}$
+$\small\textcolor{#E1C1AA}{\textsf{fem,}}$
+$\small\textcolor{#FFF4D6}{\textsf{she/her}}$
+$\small\textcolor{#9D4241}{\textsf{pronouns}}$
+$\small\textcolor{#C79594}{\textsf{only}}$
     
   <p align="center">
-$\small\textcolor{#DB386F}{\textsf{tenna / pest}}$
-$\small\textcolor{#652756}{\textsf{enjoyer!}}$
+$\small\textcolor{#FFF4D6}{\textsf{tenna / pest}}$
+$\small\textcolor{#9D4241}{\textsf{enjoyer!}}$
 
 <p align="center">
-$\small\textcolor{#DB386F}{\textsf{read}}$
-$\small\textcolor{#652756}{\textsf{straw}}$
-$\small\textcolor{#E5AA68}{\textsf{before}}$
-$\small\textcolor{#EDCB84}{\textsf{int}}$
+$\small\textcolor{#C79594}{\textsf{read}}$
+$\small\textcolor{#9D4241}{\textsf{straw}}$
+$\small\textcolor{#FFF4D6}{\textsf{before}}$
+$\small\textcolor{#E1C1AA}{\textsf{int}}$
 
 <p align="center">
-$\small\textcolor{#652756}{\textsf{im a sharing}}$
-$\small\textcolor{#EDCB84}{\textsf{pest/tenna}}$
-$\small\textcolor{#DB386F}{\textsf{yume!}}$
+$\small\textcolor{#C79594}{\textsf{im a sharing}}$
+$\small\textcolor{#E1C1AA}{\textsf{pest/tenna}}$
+$\small\textcolor{#9D4241}{\textsf{yume!}}$
   
 <p align="center">
-$\small\textcolor{#BD735A}{\textsf{[ding dan don] whispers: tung tung tung saur}}$
+$\small\textcolor{#FFF4D6}{\textsf{[ding dan don] whispers: tung tung tung saur}}$
 <img height="20" width="20" src= "https://files.catbox.moe/9x6o5q.gif">
 
 <p align="center">
