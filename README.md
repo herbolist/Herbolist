@@ -7,7 +7,7 @@
 <a href="https://hits.sh/github.com/herbolist/"><img alt="Hits" src="https://hits.sh/github.com/herbolist.svg?label=%E0%B9%91&extraCount=554&color=FFDDED&labelColor=FFF9DB"/></a>
   
 <p align="center">
-<img height="300" width="300" src="https://files.catbox.moe/rgw63x.png"> 
+<img height="300" width="300" src="https://files.catbox.moe/h9ajm8.png"> 
   
 <p align="center"> 
 <img height="20" width="20" src= "https://files.catbox.moe/9rcn71.gif">
@@ -18,22 +18,22 @@ $\small\textcolor{#FFDDED}{\textsf{pronouns}}$
 $\small\textcolor{#EC4386}{\textsf{only}}$
     
   <p align="center">
-$\small\textcolor{#FFF9DB}{\textsf{tenna }}$
-$\small\textcolor{#FFDDED}{\textsf{enjoyer!}}$
+$\small\textcolor{#E5AA68}{\textsf{tenna }}$
+$\small\textcolor{#652756}{\textsf{enjoyer!}}$
 
 <p align="center">
-$\small\textcolor{#EC4386}{\textsf{read}}$
-$\small\textcolor{#FFDDED}{\textsf{straw}}$
-$\small\textcolor{#826FBC}{\textsf{before}}$
-$\small\textcolor{#FFF9DB}{\textsf{int}}$
+$\small\textcolor{#BD735A}{\textsf{read}}$
+$\small\textcolor{#652756}{\textsf{straw}}$
+$\small\textcolor{#E5AA68}{\textsf{before}}$
+$\small\textcolor{#EDCB84}{\textsf{int}}$
 
 <p align="center">
-$\small\textcolor{#EC4386}{\textsf{i adore}}$
-$\small\textcolor{#FFDDED}{\textsf{my}}$
-$\small\textcolor{#826FBC}{\textsf{fictkins!}}$
+$\small\textcolor{#652756}{\textsf{i adore}}$
+$\small\textcolor{#EDCB84}{\textsf{my}}$
+$\small\textcolor{#E5AA68}{\textsf{fictkins!}}$
   
 <p align="center">
-$\small\textcolor{#FFF9DB}{\textsf{[ding dan don] whispers: tung tung tung saur}}$
+$\small\textcolor{#BD735A}{\textsf{[ding dan don] whispers: tung tung tung saur}}$
 <img height="20" width="20" src= "https://files.catbox.moe/9x6o5q.gif">
 
 <p align="center">
