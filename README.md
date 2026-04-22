@@ -2,9 +2,9 @@
   if you're a pressure fan what wants to sell your Sebastian solace(makeship 2.0 vers) plush please contact _jay_x on discord! she needs one, <3
     
 <p align="center">
-<a href="https://hits.sh/github.com/herbolist/"><img alt="Hits" src="https://hits.sh/github.com/herbolist.svg?label=Partyguest&extraCount=665&color=DB386F&labelColor=EDCB84"/></a>
+<a href="https://hits.sh/github.com/herbolist/"><img alt="Hits" src="https://hits.sh/github.com/herbolist.svg?label=PartyGuest&extraCount=665&color=E1C1AA&labelColor=FFF4D6"/></a>
 <img height="30" width="30" src= "https://files.catbox.moe/a2tnng.gif">
-<a href="https://hits.sh/github.com/herbolist/"><img alt="Hits" src="https://hits.sh/github.com/herbolist.svg?label=%E4%BA%BA%E2%81%A0&extraCount=665&color=BD735A&labelColor=652756"/></a>
+<a href="https://hits.sh/github.com/herbolist/"><img alt="Hits" src="https://hits.sh/github.com/herbolist.svg?label=%E2%81%A0%E4%BA%BA%E2%81%A0&extraCount=665&color=FFF4D6&labelColor=9D4241"/></a>
   
 <p align="center">
 <img height="300" width="300" src="https://files.catbox.moe/h9ajm8.png"> 
@@ -37,9 +37,9 @@ $\small\textcolor{#FFF4D6}{\textsf{[ding dan don] whispers: tung tung tung saur}
 <img height="20" width="20" src= "https://files.catbox.moe/9x6o5q.gif">
 
 <p align="center">
-<a href="https://goodeveningsunsim.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=10&duration=1&pause=5000&color=DB386F&center=true&vCenter=true&width=200&height=30&lines=ata" alt="Typing SVG" /></a>
-<a href="https://wereallconnected.straw.page"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=10&duration=1&pause=5000&color=BD735A&center=true&vCenter=true&width=200&height=30&lines=straw" alt="Typing SVG" /></a>
-<a href="https://pin.it/7h6CXTGmT"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=10&duration=1&pause=5000&color=652756&center=true&vCenter=true&width=200&height=30&lines=pin" alt="Typing SVG" /></a>
+<a href="https://goodeveningsunsim.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=10&duration=1&pause=5000&color=E1C1AA&center=true&vCenter=true&width=200&height=30&lines=ata" alt="Typing SVG" /></a>
+<a href="https://wereallconnected.straw.page"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=10&duration=1&pause=5000&color=FFF4D6&center=true&vCenter=true&width=200&height=30&lines=straw" alt="Typing SVG" /></a>
+<a href="https://pin.it/7h6CXTGmT"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=10&duration=1&pause=5000&color=9D4241&center=true&vCenter=true&width=200&height=30&lines=pin" alt="Typing SVG" /></a>
 
 <p align="center">
   <a href="https://open.spotify.com/user/31epnla3s6kdp6ghhtszrqkhvblq?si=Bz6B1xRSRa-ecVnvgMU3mg">
