@@ -2,9 +2,9 @@
   if you're a pressure fan what wants to sell your Sebastian solace(makeship 2.0 vers) plush please contact _jay_x on discord! she needs one, <3
     
 <p align="center">
-<a href="https://hits.sh/github.com/herbolist/"><img alt="Hits" src="https://hits.sh/github.com/herbolist.svg?label=Mccool&extraCount=332&color=FFF9DB&labelColor=826FBC"/></a>
+<a href="https://hits.sh/github.com/herbolist/"><img alt="Hits" src="https://hits.sh/github.com/herbolist.svg?label=Partyguest&extraCount=665&color=DB386F&labelColor=EDCB84"/></a>
 <img height="30" width="30" src= "https://files.catbox.moe/a2tnng.gif">
-<a href="https://hits.sh/github.com/herbolist/"><img alt="Hits" src="https://hits.sh/github.com/herbolist.svg?label=%E0%B9%91&extraCount=554&color=FFDDED&labelColor=FFF9DB"/></a>
+<a href="https://hits.sh/github.com/herbolist/"><img alt="Hits" src="https://hits.sh/github.com/herbolist.svg?label=%E4%BA%BA%E2%81%A0&extraCount=665&color=BD735A&labelColor=652756"/></a>
   
 <p align="center">
 <img height="300" width="300" src="https://files.catbox.moe/h9ajm8.png"> 
