@@ -3,14 +3,14 @@
     
 <p align="center">
 <a href="https://hits.sh/github.com/herbolist/"><img alt="Hits" src="https://hits.sh/github.com/herbolist.svg?label=PartyGuest&extraCount=665&color=E1C1AA&labelColor=FFF4D6"/></a>
-<img height="30" width="30" src= "https://files.catbox.moe/a2tnng.gif">
+<img height="30" width="30" src= "https://files.catbox.moe/zvkn3l.gif">
 <a href="https://hits.sh/github.com/herbolist/"><img alt="Hits" src="https://hits.sh/github.com/herbolist.svg?label=%E2%81%A0%E4%BA%BA%E2%81%A0&extraCount=665&color=FFF4D6&labelColor=9D4241"/></a>
   
 <p align="center">
 <img height="300" width="300" src="https://files.catbox.moe/0f73as.png"> 
   
 <p align="center"> 
-<img height="20" width="20" src= "https://files.catbox.moe/9rcn71.gif">
+<img height="30" width="60" src= "https://files.catbox.moe/h8r2oo.png">
   <p align="center">
 $\small\textcolor{#E1C1AA}{\textsf{fem,}}$
 $\small\textcolor{#FFF4D6}{\textsf{she/her}}$
